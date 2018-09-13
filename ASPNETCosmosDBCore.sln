@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCosmosDBCore", "ASPNETCosmosDBCore\ASPNETCosmosDBCore.csproj", "{180A3874-80A7-462C-A15E-DADFD0677BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCosmosCore2App.Core", "SampleCosmosCore2App.Core\SampleCosmosCore2App.Core.csproj", "{2A9D8DB9-A21F-48EE-9421-42D74714E635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180A3874-80A7-462C-A15E-DADFD0677BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180A3874-80A7-462C-A15E-DADFD0677BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180A3874-80A7-462C-A15E-DADFD0677BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180A3874-80A7-462C-A15E-DADFD0677BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9D8DB9-A21F-48EE-9421-42D74714E635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D8DB9-A21F-48EE-9421-42D74714E635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D8DB9-A21F-48EE-9421-42D74714E635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D8DB9-A21F-48EE-9421-42D74714E635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1676BC91-8D09-40CC-91A9-E45AAF85221E}
+	EndGlobalSection
+EndGlobal

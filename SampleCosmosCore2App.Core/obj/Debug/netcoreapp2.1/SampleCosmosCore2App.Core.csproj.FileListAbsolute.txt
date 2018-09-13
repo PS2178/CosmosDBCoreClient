@@ -1,0 +1,11 @@
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\bin\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.deps.json
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\bin\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.dll
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.csproj.CoreCompileInputs.cache
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.AssemblyInfoInputs.cache
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.AssemblyInfo.cs
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\bin\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.pdb
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.dll
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.pdb
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\SampleCosmosCore2App.Core\obj\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.csprojAssemblyReference.cache
