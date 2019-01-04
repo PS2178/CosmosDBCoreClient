@@ -55,8 +55,8 @@
                     @Html.DisplayFor(modelItem => item.Email)
                 </td>
                 <td style="padding-left:5px">
-                    @Html.ActionLink("Edit", "EditAsync", new { id = item.Id }) |
-                    @Html.ActionLink("Delete", "DeleteAsync", new { id = item.Id })
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    <a asp-action="DeleteAsync">Delete</a>
 
                 </td>
             </tr>

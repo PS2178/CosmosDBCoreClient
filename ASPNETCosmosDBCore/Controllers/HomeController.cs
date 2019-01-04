@@ -31,27 +31,28 @@ namespace ASPNETCosmosDBCore.Controllers
         {
             await _persistence.DeleteItemAsync(id);
             var contacts = _persistence.GetSamplesAsync();
-            return RedirectToAction("IndexAsync");
+            return RedirectToAction("IndexAsync", contacts);
         }
 
         [HttpGet("Create")]
         public IActionResult Create()
         {
             var contact = new Contact() { };
-            return View("Get", contact);
+            return View("Create", contact);
         }
 
         [HttpPut("Edit")]
         public IActionResult Edit(string id)
         {
-            return View();
+            var contact = _persistence.GetSampleAsync(id);
+            return View("Edit", id);
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(string id)
         {
             var contact = await _persistence.GetSampleAsync(id);
-            return View("Get", contact);
+            return View("Create", contact);
         }
 
         [HttpPost()]

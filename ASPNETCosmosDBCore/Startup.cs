@@ -49,7 +49,7 @@ namespace ASPNETCosmosDBCore
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseMvc().UseMvcWithDefaultRoute();
         }
     }
 }

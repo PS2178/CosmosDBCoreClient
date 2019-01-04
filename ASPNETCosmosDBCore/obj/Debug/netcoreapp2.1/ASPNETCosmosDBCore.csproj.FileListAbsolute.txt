@@ -27,5 +27,5 @@ C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\bin\Debug\net
 C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\bin\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.dll
 C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\bin\Debug\netcoreapp2.1\SampleCosmosCore2App.Core.pdb
 C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Get.g.cshtml.cs
 C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\rcoop\Documents\dev\ASPNETCosmosDBCore\ASPNETCosmosDBCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
